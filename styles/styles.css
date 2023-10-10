@@ -1,0 +1,37 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  width: 50vmin;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+.ingredients {
+  text-align: center;
+}
+
+.recipe {
+  color: brown;
+  size: 32px;
+}
+
+ul > li {
+  color: burlywood;
+  background-color: black;
+}
+
+.main, ul#mainlist > * {
+  color: gray;
+  background-color: white;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
